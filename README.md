@@ -26,7 +26,7 @@ I'm passionate about building intelligent systems, writing clean code, and solvi
 ---
 
 ### 🧠 Technical Skills 💻
-
+<p>
   <!-- Add icons here from https://simpleicons.org/ -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
@@ -36,8 +36,9 @@ I'm passionate about building intelligent systems, writing clean code, and solvi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-  
+  </p>
   ---
+  <p>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
   <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
@@ -45,6 +46,7 @@ I'm passionate about building intelligent systems, writing clean code, and solvi
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />
   <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" />
+  </p>
   
 
   
