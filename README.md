@@ -1,21 +1,5 @@
 
 
-<h1 align="center">👋 Hello, I'm Amit Jaiswal</h1>
-
-<p align="center">
-🎓 Engineering student | 💻 Aspiring Machine Learning Engineer | ⚙️ Full-stack Developer in the making
-I'm passionate about building intelligent systems, writing clean code, and solving real-world problems using technology. From creating smart algorithms to designing intuitive UIs, I enjoy working across the tech stack.
-</p>
-
----
-
-- 👀 I’m interested in Web Development & App Development.
-- 🧠 I’m currently working on my Problem Solving Skills in Data Structures and Algorithms.
-- 🌱 I’m currently learning <strong>Web Development with JS</strong>.
-- 💞️ I’m looking to collaborate on Open-source and Web dev projects.
-
----
-
 ### 🤝 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/amit-jaiswal-152ab0244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
