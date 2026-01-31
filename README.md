@@ -44,7 +44,9 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
+
+
 <p>Always open and happy to connect, collaborate, and exchange ideas.</p>
 
 <p>
@@ -52,6 +54,7 @@
   <a href="https://www.instagram.com/amit_jaiswal_1318/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
   <a href="mailto:imamitsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
+
 
   
 
