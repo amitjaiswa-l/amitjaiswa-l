@@ -1,13 +1,6 @@
 <h1 align="center">Hi there, I'm Amit Jaiswal! 👋</h1>
 
-### 🤝 Let's Connect
-<p>
-  <a href="https://www.linkedin.com/in/amit-jaiswal-152ab0244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/amit_jaiswal_1318/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
-  <a href="mailto:imamitsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-</p>
 
----
 
 ## 🛠️ Technical Skills
 
@@ -22,7 +15,7 @@
   <img src="https://img.shields.io/badge/RX%20Logix-8B0000?style=for-the-badge"/>
 </p>
 
----
+
 
 ### 💻 Programming Languages
 <p align="left">
@@ -36,7 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
+
 
 ### 📚 Libraries & Frameworks
 <p align="left">
@@ -49,6 +42,15 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+---
+### 🤝 Let's Connect
+<p>Always open and happy to connect, collaborate, and exchange ideas.</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/amit-jaiswal-152ab0244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.instagram.com/amit_jaiswal_1318/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="mailto:imamitsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
   
